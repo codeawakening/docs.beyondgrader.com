@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_beyondgrader_com=self.webpackChunkdocs_beyondgrader_com||[]).push([[647],{172:(e,r,s)=>{s.r(r),s.d(r,{default:()=>t});s(3945);var c=s(717),d=s(5174),a=s(574),o=s(9302),n=s(6655),u=s(3565);function t(e){return(0,u.jsx)(d.e3,{className:(0,c.A)(a.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,o.v)(e.route.routes)})})}}}]);
